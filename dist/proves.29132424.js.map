@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["name","console","log"],"mappings":";AAAA,IAAMA,EAAO,OACbC,QAAQC,IAAaF,SAAAA,OAAAA","file":"proves.29132424.js","sourceRoot":"..","sourcesContent":["const name = 'kali';\nconsole.log(`Hello ${name}`);"]}
